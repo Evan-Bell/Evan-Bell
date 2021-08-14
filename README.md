@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi! 👋 I'm Evan.
 
-<!--
-**Evan-Bell/Evan-Bell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy taking on solo and team projects spanning different disciplines of engineering, from robotics to games to software development!
 
-Here are some ideas to get you started:
+I'm currently a freshman at MIT (Class of '25)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My favorite projects
+TO BE CONTINUED
+
+### Contact me
+
+📫 My email is [embell@mit.edu](mailto:embell@mit.edu), if you have any questions feel free to send me a note!
+
+For up-to-date information on jobs and internships, check out my [LinkedIn](www.linkedin.com/in/evan-m-bell).
