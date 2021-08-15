@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Evan.
 
-I enjoy taking on solo and team projects spanning different disciplines of engineering, from robotics to games to software development!
+I enjoy taking on solo and team projects spanning different disciplines of engineering, from robotics to games to Web development!
 
 I'm currently a freshman at MIT (Class of '25)
 
