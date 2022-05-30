@@ -2,7 +2,7 @@
 
 I enjoy taking on solo and team projects spanning different disciplines of engineering, from robotics to games to Web development!
 
-I'm currently a freshman at MIT (Class of '25)
+I'm currently a sophomore at MIT (Class of '25)
 
 ### Contact me
 
